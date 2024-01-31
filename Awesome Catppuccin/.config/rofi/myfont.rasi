@@ -1,0 +1,5 @@
+@theme "catppuccin-mocha"
+
+* {
+   font: "JetBrainsMono Nerd Font 10";
+}

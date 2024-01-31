@@ -1,0 +1,25 @@
+#Theme
+# foreground #ffffff
+# background #000000
+background_opacity 0.9
+
+#Settings
+enable_audio_bell no
+window_padding_width 15
+
+#Font
+font_family JetBrainsMono Nerd Font
+font_size 8.5
+
+tab_bar_min_tabs            1
+tab_bar_edge                bottom
+tab_bar_style               powerline
+tab_powerline_style         slanted
+tab_title_template          {"kitty"}
+
+
+
+# BEGIN_KITTY_THEME
+# Catppuccin-Mocha
+include current-theme.conf
+# END_KITTY_THEME
